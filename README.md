@@ -8,5 +8,5 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
+- [React.Js](https://pt-br.reactjs.org/)
 - [Next.Js](https://nextjs.org/)
